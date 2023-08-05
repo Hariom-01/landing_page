@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background-color: #fff;
+  }
+  
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 30px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+  }
+  
+  nav {
+    float: right;
+    margin-top: 2px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  main {
+    margin-top: 20px;
+  }
+  
+ 
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
